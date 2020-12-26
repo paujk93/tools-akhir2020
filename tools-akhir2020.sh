@@ -13,8 +13,8 @@ echo " Instagram : pakujk93 "
 echo " YouTube : https://youtube.com/pakujk93a
 echo " Sc yang sudah terinstall akan tersimpan otomatis di sc ini"
 echo "----------------"
+echo 
 echo " 1. Trojans"
-echo "--------------"
 echo
 echo $bi"Pilih Gaes Mau No Berapa :"
 read -p "[?] Pilih" pil
